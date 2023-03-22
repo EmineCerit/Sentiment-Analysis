@@ -1,4 +1,4 @@
-# CLTV PREDICTION WITH BG/NBD AND GAMMA&GAMMA MODELS
+# Demand Forecasting with LightGBM
 
 ## Table of contents
 * [Introduction](#Introduction)
